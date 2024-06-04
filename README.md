@@ -13,10 +13,6 @@ This project is a video management system where users can add, update, and delet
 - Delete videos
 - View video list
 
-## Installation
-
-To run this project on your local machine, follow these steps:
-
 ### Requirements
 
 - PHP
